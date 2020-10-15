@@ -1,6 +1,6 @@
 Good day!
 
-The first project in this respository is a producer and consumer problem. 
+The first project in this respository is a producer and consumer problem made in UNIX. 
 The aim of this project is to solve a producer and consumer problem using pthreads. Pthreads allows
 developers to create threads which results in parallel programming opportunities which allows for
 multiple computations to be done simultaneously on different threads. My program is comprised of
@@ -17,7 +17,7 @@ operation is fully completed. The two semaphores, “full” and “empty” pro
 This interprets more specifically to preventing production with a full buffer and prevents consumption
 with an empty buffer. 
 
-The second project is implementing the Least Recently Used Algorithm. 
+The second project is implementing the Least Recently Used Algorithm made in UNIX. 
 Operating systems that use paging for memory management, page replacement algorithms are needed
 to decide which page is needed to be replaced when new page comes in. Whenever a new page is
 referred and not present in memory, a page fault error occurs and Operating system replaces one of the
